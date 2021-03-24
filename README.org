@@ -1,3 +1,7 @@
 #+TITLE: Readme
 
 https://tomassedovic.github.io/roguelike-tutorial/
+
+Related materials:
+- https://bfnightly.bracketproductions.com
+- https://pragprog.com/titles/hwrust/hands-on-rust/
